@@ -147,10 +147,7 @@
 
 	</div>
 	<div class="container_fluid">
-		<p class="page-header center-block">
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
-		</p>
+		
 		<p class="page-header center-block">
 			<a href="#"><button class="btn btn-primary">Contact Us</button></a>
 			<a href="#about"><button class="btn btn-info">About Us</button></a>
